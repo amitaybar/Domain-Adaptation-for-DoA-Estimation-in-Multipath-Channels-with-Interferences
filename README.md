@@ -9,5 +9,6 @@ The figures for the RF setting are created by LoopWrapperRFAll.m
 
 The figures for the acoustic setting require the RIR simulator to be installed. 
 Please see more details at https://www.audiolabs-erlangen.de/fau/professor/habets/software/rir-generator
+
 They are created by LoopWrapperAcousticAll.m 
 
